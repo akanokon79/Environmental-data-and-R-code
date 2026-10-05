@@ -1,1 +1,1 @@
-Data and R code for Reproducing the results of the study on regularized quantile regression for assessing heterogeneous carbon emission predictors.
+Data and R code for reproducing the results of the study on regularized quantile regression for assessing heterogeneous carbon emission predictors. The repository contains the data and R scripts used to implement quantile regression (QR), ridge quantile regression (RQR), and adaptive ridge quantile regression (ARQR), including the temporal dependence analysis.
